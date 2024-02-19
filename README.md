@@ -1,5 +1,7 @@
 # StockPrediction
 
+Video available at - https://www.youtube.com/watch?v=usjB5TsOo9I
+
 Building a stock price prediction application in Python involves several key steps, which we covered comprehensively in this video. The process begins with data collection, where historical stock price data is obtained from sources like Yahoo Finance using libraries such as `yfinance`. Next, data preprocessing is crucial for cleaning the data, handling missing values, and engineering features that could improve prediction accuracy. Techniques like moving averages and technical indicators are commonly used for feature engineering.
 
 Once the data is prepared, the next step is model selection. Various algorithms can be considered, ranging from simple linear regression to more complex techniques like random forests or LSTM networks. In our example, we opted for a Linear Regression model for its simplicity and interpretability. The model is trained on the preprocessed data, and its performance is evaluated using metrics like Mean Squared Error.
